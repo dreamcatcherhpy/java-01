@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.huawei.base"},{"l":"com.huawei.operator"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();
